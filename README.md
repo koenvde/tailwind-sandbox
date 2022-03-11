@@ -1,5 +1,3 @@
-# tailwind-sandbox
+# Tailwind sandbox
 
-## Hello world!
-
-This is my Tailwind sandbox.
+This is my Tailwind sandbox. Not much to see here, just experimenting.
